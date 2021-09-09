@@ -1,8 +1,9 @@
 import React from 'react'
+import styles from '../../appStyle/news.module.css'
 
 function News() {
     return (
-        <div>
+        <div className={styles.contaner}>
             
         </div>
     )

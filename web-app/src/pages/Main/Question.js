@@ -1,8 +1,9 @@
 import React from 'react'
+import styles from '../../appStyle/question.module.css'
 
 function Question() {
     return (
-        <div>
+        <div className={styles.contaner}>
             
         </div>
     )
